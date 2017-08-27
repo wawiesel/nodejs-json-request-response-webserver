@@ -74,9 +74,3 @@ You can test that you can fire off multiple curls in succession and they all
 will be immediately logged in the server terminal but will be processed
 asynchronously and the responses will appear in quick succession.
 
-
-## JavaScript npm commands
-
-```
-npm install express body-parser
-```
